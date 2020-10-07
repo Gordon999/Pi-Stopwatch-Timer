@@ -7,6 +7,10 @@ Designed to be used with a Pi and a LCD, but will work on other monitors. Use on
 
 Cna be used as a Stopwatch or Countdown timer.
 
-## LCD Screenshot
+## Stopwatch Screenshot
 
 ![screenshot](stopwatch.jpg)
+
+## Coundown Timer Screenshot
+
+![screenshot](timer.jpg)
