@@ -1,8 +1,5 @@
 # Pi-Stopwatch-Timer
 
-# Pi-MP3_Player
-Pi-MP3_Player
-
 Designed to be used with a Pi and a LCD, but will work on other monitors. Use onscreen buttons or buttons attached to GPIO.
 
 Can be used as a Stopwatch or Countdown timer.
