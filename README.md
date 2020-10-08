@@ -1,6 +1,9 @@
 # Pi-Stopwatch-Timer
 
-Designed to be used with a Pi and a LCD, but will work on other monitors. Use onscreen buttons or buttons attached to GPIO.
+Designed to be used with a Pi and a LCD, but will work on other monitors. Should autosize to screen size
+
+
+Use onscreen buttons or buttons attached to GPIO.
 
 Can be used as a Stopwatch or Countdown timer.
 
